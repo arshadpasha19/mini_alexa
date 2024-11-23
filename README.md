@@ -1,2 +1,2 @@
 # mini_alexa
-Just a basic model of Alexa with few lines of python
+Developed a simple assistant using Python, inspired by Alexa's functionality.
